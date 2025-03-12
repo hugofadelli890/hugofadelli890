@@ -1,4 +1,8 @@
-## Hi there 👋
+## Eu estou atualmente aprendendo ciencia de dados com a escola virtual EBAC
+## Ja tenho alguma experiencia com analise e tratamento de dados(não muito)
+## um gif abaixo somente para completar a atvidade da EBAC
+## ![](https://i.makeagif.com/media/3-07-2024/LT3jZu.gif)
+
 
 <!--
 **hugofadelli890/hugofadelli890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
